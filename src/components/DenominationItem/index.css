@@ -1,12 +1,13 @@
 .amount-button {
-    background-color: #382f5a;
-    border-radius: 8px;
-    border-color: #c4c4c4;
-    color: #c4c4c4;
-    font-family: "Roboto";
-    height: 50px;
-    width: 175px;
-    padding: 8px;
-    margin: 3px;
-    margin-bottom: 10px;
+  background-color: #382f5a;
+  border-radius: 8px;
+  border-color: #c4c4c4;
+  color: #c4c4c4;
+  font-family: 'Roboto';
+  height: 50px;
+  width: 175px;
+  padding: 8px;
+  margin: 3px;
+  margin-bottom: 10px;
+  font-size: 18px;
 }
